@@ -1,0 +1,61 @@
+# Compiled output
+**/cdk.out
+/dist
+/tmp
+/out-tsc
+/.angular
+
+# Dependencies
+node_modules
+.npmrc
+package-lock.json
+
+# Profiling files
+chrome-profiler-events.json
+speed-measure-plugin.json
+
+# IDEs and editors
+/.idea
+
+# Misc
+/.angular/cache
+/.eslintrc.js
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+/typings
+npm-debug.log
+yarn-error.log
+kendo-ui-license.txt
+deploymentProjectNameCache.txt
+
+# System Files
+.DS_Store
+Thumbs.db
+
+dist/
+
+*.js
+!**/tailwind.config.js
+*.js.map
+*.d.ts
+
+# Tests
+**/coverage-unit-tests
+**/coverage-integration-tests
+
+.angular
+
+#GraphQL auto-generated
+**/src/app/API.service.ts
+**/src/graphql/
+
+# Declarations
+!funnel-graph-js.d.ts
+
+/logs
+/store
+/memory
+.env
+configuration.json

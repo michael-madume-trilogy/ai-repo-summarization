@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    "/Workspace/Trilogy/ws-frontend-monorepo",
+    "/Workspace/Trilogy/xo-hiring"
+  ],
+  "excludedProjects": ["coach-bot", "education-platform", "gt-skill-stack", "jenga-stack"],
+  "specs": [],
+  "store": {
+    "directory": "./store"
+  }
+}
